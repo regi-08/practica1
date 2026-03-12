@@ -1,0 +1,7 @@
+{
+  "name": "regi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
